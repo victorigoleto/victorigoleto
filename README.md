@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47s2otbqnlnsu7v32nqe8j2gihyw0fqflzf3h91x62&rid=giphy.gif" align=center width=250px height=150px>
 <hr>
 <h4>Quem sou eu <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468.png" width=25px height=25px></h4> 
-Meu nome é João Victor dos Santos Rigoleto, tenho 23 anos e sou Desenvolvedor Full Stack Jr. Sou formado técnico na área de Informática para Web com foco em Programação/Design e atualmente curso Bacharelado em Ciência da Computação na UTFPR de Campo Mourão. Sou apaixonado pelo front-end e ao mesmo tempo pelo back-end ♥ 
+Meu nome é João Victor dos Santos Rigoleto, tenho 23 anos e sou Desenvolvedor Full Stack Jr. Sou formado técnico na área de Informática para Web com foco em Programação/Design e atualmente curso Bacharelado em Ciência da Computação na UTFPR de Campo Mourão e realizo um Bootcamp da Generation Brasil de Desenvolvedor Jr. Sou apaixonado pelo front-end e ao mesmo tempo pelo back-end ♥ 
 <h4>Meus objetivos <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width=25px height=25px></h4>
 <p>• Contribuir com a comunidade, agregando e absorvendo conhecimento</p>
 <p>• Melhorar em programação e design no quesito geral</p>
