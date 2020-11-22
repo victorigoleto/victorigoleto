@@ -22,7 +22,7 @@ Meu nome é João Victor dos Santos Rigoleto, tenho 23 anos e sou Desenvolvedor 
 <img src = "https://github-readme-stats.vercel.app/api?username=victorigoleto&show_icons=true&theme= dark & ​​locale = en "alt =" victorigoleto "/> </p>
 <h4>Linguagens mais usadas<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width=25px height=25px></h4>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=victorigoleto&show_icons= true & locale = pt-br & layout = compact "alt =" victorigoleto "/> </p>
-<h4>Outras Ferramentas<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f39e.png" width=25px height=25px></h4>
+<h4>Outras Ferramentas<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width=25px height=25px></h4>
 <div>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" width=50px height=50px>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width=50px height=50px>
